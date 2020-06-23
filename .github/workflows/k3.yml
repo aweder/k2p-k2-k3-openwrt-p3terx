@@ -16,8 +16,8 @@ on:
       - master
     paths:
       - 'k3.config'
-  schedule:
-    - cron: 0 8 * * 6
+#  schedule:
+#    - cron: 0 8 * * 6
 #  watch:
 #    types: started
 
